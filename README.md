@@ -1,2 +1,2 @@
-# Improving Figures of Merit for Quantum Circuit Compilation
-## A Machine-Learning Approach
+# Machine-Learning-Guided Quantum Circuit Compilation
+## Master's Thesis
