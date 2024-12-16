@@ -1,0 +1,1 @@
+{226483: {'ccp_alpha': 0.01, 'criterion': 'absolute_error', 'max_depth': None, 'max_features': 'log2', 'max_leaf_nodes': 100, 'max_samples': 1.0, 'min_impurity_decrease': 0.01, 'min_samples_leaf': 3, 'min_samples_split': 0.1, 'monotonic_cst': [1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0], 'n_estimators': 60}}
